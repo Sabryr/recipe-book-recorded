@@ -3,6 +3,7 @@
 ## Ingredients
 - Carrots
 - water
+- Salt
 
 ## Instructions
  - Boil
